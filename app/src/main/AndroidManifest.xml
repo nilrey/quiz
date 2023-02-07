@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.quiz">
+<!--https://r2-&#45;&#45;sn-4g5edn6k.gvt1.com/edgedl/android/studio/install/3.3.1.0/android-studio-ide-182.5264788-windows.exe?mh=Qq&pl=21&shardbypass=sd&cm2rm=sn-o5035oxu-n8vl7e,sn-n8vd6ed&req_id=ceb9b9babd471a35&redirect_counter=2&cms_redirect=yes&cmsv=e&mip=81.26.151.5&mm=34&mn=sn-4g5edn6k&ms=ltu&mt=1675665881&mv=m&mvi=2&rmhost=r1-&#45;&#45;sn-4g5edn6k.gvt1.com&smhost=r5-&#45;&#45;sn-4g5lznek.gvt1.com-->
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
